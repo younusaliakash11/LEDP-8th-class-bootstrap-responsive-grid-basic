@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+img{
+	margin-top: -70px;
+}
+.card{
+	border-radius: 0px;
+	box-shadow: 5px 5px 15px red;
+	transition: 0.3s;
+}
+.card:hover{
+	background: red;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	box-shadow: 5px 5px 10px green;
+	transition: 0.7s;
+
+}
